@@ -21,6 +21,8 @@ These AI tools may be used for tasks such as drafting client communications, sum
 |Week|Progress Summary|
 |-|-|
 |1|Created initial plan and documentation for the project. Created github repo. Created project charter.|
+|2|Updated GitHub repository and weekly progress in README. Created threat model document including: key threats, attack surfaces, misuse scenarios, likely impact. Expanded asset inventory. Created baseline evidence pdf, including: prompts and outputs, log samples, architecture screenshot, policy review notes, workflow screenshots, permission analysis, retrieval examples, initial test cases. Created initial risk matrix. Created planned control list showing which defensive controls your group will propose or test.|
+
 
 ## Final Outcome Summary
 N/A
